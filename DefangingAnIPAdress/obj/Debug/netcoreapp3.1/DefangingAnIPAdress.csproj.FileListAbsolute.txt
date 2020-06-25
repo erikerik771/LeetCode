@@ -1,0 +1,13 @@
+D:\programming\cs\projects\LeetCode\DefangingAnIPAdress\bin\Debug\netcoreapp3.1\DefangingAnIPAdress.exe
+D:\programming\cs\projects\LeetCode\DefangingAnIPAdress\bin\Debug\netcoreapp3.1\DefangingAnIPAdress.deps.json
+D:\programming\cs\projects\LeetCode\DefangingAnIPAdress\bin\Debug\netcoreapp3.1\DefangingAnIPAdress.runtimeconfig.json
+D:\programming\cs\projects\LeetCode\DefangingAnIPAdress\bin\Debug\netcoreapp3.1\DefangingAnIPAdress.runtimeconfig.dev.json
+D:\programming\cs\projects\LeetCode\DefangingAnIPAdress\bin\Debug\netcoreapp3.1\DefangingAnIPAdress.dll
+D:\programming\cs\projects\LeetCode\DefangingAnIPAdress\bin\Debug\netcoreapp3.1\DefangingAnIPAdress.pdb
+D:\programming\cs\projects\LeetCode\DefangingAnIPAdress\obj\Debug\netcoreapp3.1\DefangingAnIPAdress.csprojAssemblyReference.cache
+D:\programming\cs\projects\LeetCode\DefangingAnIPAdress\obj\Debug\netcoreapp3.1\DefangingAnIPAdress.csproj.CoreCompileInputs.cache
+D:\programming\cs\projects\LeetCode\DefangingAnIPAdress\obj\Debug\netcoreapp3.1\DefangingAnIPAdress.AssemblyInfoInputs.cache
+D:\programming\cs\projects\LeetCode\DefangingAnIPAdress\obj\Debug\netcoreapp3.1\DefangingAnIPAdress.AssemblyInfo.cs
+D:\programming\cs\projects\LeetCode\DefangingAnIPAdress\obj\Debug\netcoreapp3.1\DefangingAnIPAdress.dll
+D:\programming\cs\projects\LeetCode\DefangingAnIPAdress\obj\Debug\netcoreapp3.1\DefangingAnIPAdress.pdb
+D:\programming\cs\projects\LeetCode\DefangingAnIPAdress\obj\Debug\netcoreapp3.1\DefangingAnIPAdress.genruntimeconfig.cache

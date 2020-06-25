@@ -1,0 +1,13 @@
+D:\programming\cs\projects\LeetCode\JewelsAndStones\bin\Debug\netcoreapp3.1\JewelsAndStones.exe
+D:\programming\cs\projects\LeetCode\JewelsAndStones\bin\Debug\netcoreapp3.1\JewelsAndStones.deps.json
+D:\programming\cs\projects\LeetCode\JewelsAndStones\bin\Debug\netcoreapp3.1\JewelsAndStones.runtimeconfig.json
+D:\programming\cs\projects\LeetCode\JewelsAndStones\bin\Debug\netcoreapp3.1\JewelsAndStones.runtimeconfig.dev.json
+D:\programming\cs\projects\LeetCode\JewelsAndStones\bin\Debug\netcoreapp3.1\JewelsAndStones.dll
+D:\programming\cs\projects\LeetCode\JewelsAndStones\bin\Debug\netcoreapp3.1\JewelsAndStones.pdb
+D:\programming\cs\projects\LeetCode\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.csprojAssemblyReference.cache
+D:\programming\cs\projects\LeetCode\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.csproj.CoreCompileInputs.cache
+D:\programming\cs\projects\LeetCode\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.AssemblyInfoInputs.cache
+D:\programming\cs\projects\LeetCode\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.AssemblyInfo.cs
+D:\programming\cs\projects\LeetCode\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.dll
+D:\programming\cs\projects\LeetCode\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.pdb
+D:\programming\cs\projects\LeetCode\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.genruntimeconfig.cache
