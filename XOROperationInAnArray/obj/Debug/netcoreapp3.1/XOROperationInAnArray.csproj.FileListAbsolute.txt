@@ -1,0 +1,13 @@
+D:\programming\cs\projects\LeetCode\XOROperationInAnArray\bin\Debug\netcoreapp3.1\XOROperationInAnArray.exe
+D:\programming\cs\projects\LeetCode\XOROperationInAnArray\bin\Debug\netcoreapp3.1\XOROperationInAnArray.deps.json
+D:\programming\cs\projects\LeetCode\XOROperationInAnArray\bin\Debug\netcoreapp3.1\XOROperationInAnArray.runtimeconfig.json
+D:\programming\cs\projects\LeetCode\XOROperationInAnArray\bin\Debug\netcoreapp3.1\XOROperationInAnArray.runtimeconfig.dev.json
+D:\programming\cs\projects\LeetCode\XOROperationInAnArray\bin\Debug\netcoreapp3.1\XOROperationInAnArray.dll
+D:\programming\cs\projects\LeetCode\XOROperationInAnArray\bin\Debug\netcoreapp3.1\XOROperationInAnArray.pdb
+D:\programming\cs\projects\LeetCode\XOROperationInAnArray\obj\Debug\netcoreapp3.1\XOROperationInAnArray.csprojAssemblyReference.cache
+D:\programming\cs\projects\LeetCode\XOROperationInAnArray\obj\Debug\netcoreapp3.1\XOROperationInAnArray.csproj.CoreCompileInputs.cache
+D:\programming\cs\projects\LeetCode\XOROperationInAnArray\obj\Debug\netcoreapp3.1\XOROperationInAnArray.AssemblyInfoInputs.cache
+D:\programming\cs\projects\LeetCode\XOROperationInAnArray\obj\Debug\netcoreapp3.1\XOROperationInAnArray.AssemblyInfo.cs
+D:\programming\cs\projects\LeetCode\XOROperationInAnArray\obj\Debug\netcoreapp3.1\XOROperationInAnArray.dll
+D:\programming\cs\projects\LeetCode\XOROperationInAnArray\obj\Debug\netcoreapp3.1\XOROperationInAnArray.pdb
+D:\programming\cs\projects\LeetCode\XOROperationInAnArray\obj\Debug\netcoreapp3.1\XOROperationInAnArray.genruntimeconfig.cache
