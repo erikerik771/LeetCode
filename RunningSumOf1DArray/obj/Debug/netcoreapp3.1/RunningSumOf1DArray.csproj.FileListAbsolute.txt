@@ -1,0 +1,13 @@
+D:\programming\cs\projects\RunningSumOf1DArray\bin\Debug\netcoreapp3.1\RunningSumOf1DArray.exe
+D:\programming\cs\projects\RunningSumOf1DArray\bin\Debug\netcoreapp3.1\RunningSumOf1DArray.deps.json
+D:\programming\cs\projects\RunningSumOf1DArray\bin\Debug\netcoreapp3.1\RunningSumOf1DArray.runtimeconfig.json
+D:\programming\cs\projects\RunningSumOf1DArray\bin\Debug\netcoreapp3.1\RunningSumOf1DArray.runtimeconfig.dev.json
+D:\programming\cs\projects\RunningSumOf1DArray\bin\Debug\netcoreapp3.1\RunningSumOf1DArray.dll
+D:\programming\cs\projects\RunningSumOf1DArray\bin\Debug\netcoreapp3.1\RunningSumOf1DArray.pdb
+D:\programming\cs\projects\RunningSumOf1DArray\obj\Debug\netcoreapp3.1\RunningSumOf1DArray.csprojAssemblyReference.cache
+D:\programming\cs\projects\RunningSumOf1DArray\obj\Debug\netcoreapp3.1\RunningSumOf1DArray.csproj.CoreCompileInputs.cache
+D:\programming\cs\projects\RunningSumOf1DArray\obj\Debug\netcoreapp3.1\RunningSumOf1DArray.AssemblyInfoInputs.cache
+D:\programming\cs\projects\RunningSumOf1DArray\obj\Debug\netcoreapp3.1\RunningSumOf1DArray.AssemblyInfo.cs
+D:\programming\cs\projects\RunningSumOf1DArray\obj\Debug\netcoreapp3.1\RunningSumOf1DArray.dll
+D:\programming\cs\projects\RunningSumOf1DArray\obj\Debug\netcoreapp3.1\RunningSumOf1DArray.pdb
+D:\programming\cs\projects\RunningSumOf1DArray\obj\Debug\netcoreapp3.1\RunningSumOf1DArray.genruntimeconfig.cache
