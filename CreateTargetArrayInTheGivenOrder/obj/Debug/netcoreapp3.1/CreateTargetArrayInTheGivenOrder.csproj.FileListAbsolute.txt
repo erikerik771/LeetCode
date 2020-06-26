@@ -1,0 +1,13 @@
+D:\programming\cs\projects\LeetCode\CreateTargetArrayInTheGivenOrder\bin\Debug\netcoreapp3.1\CreateTargetArrayInTheGivenOrder.exe
+D:\programming\cs\projects\LeetCode\CreateTargetArrayInTheGivenOrder\bin\Debug\netcoreapp3.1\CreateTargetArrayInTheGivenOrder.deps.json
+D:\programming\cs\projects\LeetCode\CreateTargetArrayInTheGivenOrder\bin\Debug\netcoreapp3.1\CreateTargetArrayInTheGivenOrder.runtimeconfig.json
+D:\programming\cs\projects\LeetCode\CreateTargetArrayInTheGivenOrder\bin\Debug\netcoreapp3.1\CreateTargetArrayInTheGivenOrder.runtimeconfig.dev.json
+D:\programming\cs\projects\LeetCode\CreateTargetArrayInTheGivenOrder\bin\Debug\netcoreapp3.1\CreateTargetArrayInTheGivenOrder.dll
+D:\programming\cs\projects\LeetCode\CreateTargetArrayInTheGivenOrder\bin\Debug\netcoreapp3.1\CreateTargetArrayInTheGivenOrder.pdb
+D:\programming\cs\projects\LeetCode\CreateTargetArrayInTheGivenOrder\obj\Debug\netcoreapp3.1\CreateTargetArrayInTheGivenOrder.csprojAssemblyReference.cache
+D:\programming\cs\projects\LeetCode\CreateTargetArrayInTheGivenOrder\obj\Debug\netcoreapp3.1\CreateTargetArrayInTheGivenOrder.csproj.CoreCompileInputs.cache
+D:\programming\cs\projects\LeetCode\CreateTargetArrayInTheGivenOrder\obj\Debug\netcoreapp3.1\CreateTargetArrayInTheGivenOrder.AssemblyInfoInputs.cache
+D:\programming\cs\projects\LeetCode\CreateTargetArrayInTheGivenOrder\obj\Debug\netcoreapp3.1\CreateTargetArrayInTheGivenOrder.AssemblyInfo.cs
+D:\programming\cs\projects\LeetCode\CreateTargetArrayInTheGivenOrder\obj\Debug\netcoreapp3.1\CreateTargetArrayInTheGivenOrder.dll
+D:\programming\cs\projects\LeetCode\CreateTargetArrayInTheGivenOrder\obj\Debug\netcoreapp3.1\CreateTargetArrayInTheGivenOrder.pdb
+D:\programming\cs\projects\LeetCode\CreateTargetArrayInTheGivenOrder\obj\Debug\netcoreapp3.1\CreateTargetArrayInTheGivenOrder.genruntimeconfig.cache
